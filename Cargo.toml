@@ -1,0 +1,10 @@
+[package]
+name = "simple_token_faucet_client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-sdk = "2.0.7"
+solana-client = "2.0.7"
+base58 = "0.2.0"
+borsh = "1.5.1"
